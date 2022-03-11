@@ -3,15 +3,17 @@
 </h1>
 
 # 🤔 Sobre
-A ideia deste pequeno projeto, é a prática de requisição de API, CSS e JavaScript. 
+<h3>A ideia deste pequeno projeto, é a prática de requisição de API, CSS e JavaScript. 
 
 Como mostra a imagem abaixo, foi utilizado Flexbox para a organização das imagens. 
-Este foi o resultado obtido: 
+
+Este foi o resultado obtido: </h3>
+
 ![marvel 1](https://user-images.githubusercontent.com/96198078/157913124-7faaf801-14e4-4bee-bbda-97e60066f84b.png)
 
 
 Também foi otimizado para dispositivos mobile:
-![alt text](Images/marvel2.png "Marvel2")
+![marvel 2](https://user-images.githubusercontent.com/96198078/157913352-22cde940-276b-4d46-af69-05db4d95a40e.png)
 
 # 💻Tecnologias utilizadas
 
