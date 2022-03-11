@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body, header {
+    height:  100%;
+    width: 100%;
+  }
+
+  body{
+    display: flex;
+    flex-direction: column;
+    background-image: url(./c01bb568b852acf83cc08abb42f0b9216ac8744f.jpg);
+    background-size: cover;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+}
+img{
+    width: 244px;
+    height: 200px;
+    border-bottom-style: solid;
+    object-fit: cover;
+    object-position: 0 0;
+    border-radius: 10px;
+    align-items: center;
+}
+.personagem {
+    width: 250px;
+    margin: 10px;
+    border-style: solid;
+    border-radius: 16px;
+    text-align: center;
+    background-color: red;
+    
+    
+}
+#herois{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+#logo{
+width: auto;
+}
+
+text{
+    font-family: 'Acme';
+}
+h1{
+    font-family: 'Acme';
+    color: white;
+    background-color: red;
+}
+@media (max-width: 700px){
+    #logo{
+        width: 50%;
+        height: 100%;
+    }
+}
