@@ -7,7 +7,8 @@ A ideia deste pequeno projeto, é a prática de requisição de API, CSS e JavaS
 
 Como mostra a imagem abaixo, foi utilizado Flexbox para a organização das imagens. 
 Este foi o resultado obtido: 
-![alt text](Images/marvel1.png "Marvel1")
+![marvel 1](https://user-images.githubusercontent.com/96198078/157913124-7faaf801-14e4-4bee-bbda-97e60066f84b.png)
+
 
 Também foi otimizado para dispositivos mobile:
 ![alt text](Images/marvel2.png "Marvel2")
