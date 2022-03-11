@@ -7,10 +7,10 @@ A ideia deste pequeno projeto, é a prática de requisição de API, CSS e JavaS
 
 Como mostra a imagem abaixo, foi utilizado Flexbox para a organização das imagens. 
 Este foi o resultado obtido: 
-<img src= "././Images/marvel1.png">
+![alt text](assets/components/images/marvel1.png "Marvel1")
 
 Também foi otimizado para dispositivos mobile:
-<img src= "././Images/marvel2.png">
+![alt text](assets/components/images/marvel2.png "Marvel2")
 
 # 💻Tecnologias utilizadas
 
